@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE5 Projects/WarehouseWreckage/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/UE5 Projects/WarehouseWreckage/Content/MapsByMe/StarterMap1.umap",
+				"D:/UE5 Projects/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/UE5 Projects/WarehouseWreckage/Content/MapsByMe/Minimal_Default1.umap",
+				"D:/UE5 Projects/WarehouseWreckage/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"D:/UE5 Projects/WarehouseWreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"D:/UE5 Projects/WarehouseWreckage/Content/MapsByMe/BP_Projectile.uasset",
+				"D:/UE5 Projects/WarehouseWreckage/Content/BP_Projectile.uasset",
+				"D:/UE5 Projects/WarehouseWreckage/Content/MainMap.umap",
+				"D:/UE5 Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"D:/UE5 Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/BP_Barrel.uasset",
+				"D:/UE5 Projects/WarehouseWreckage/Content/BP_Barrel.uasset"
+			]
+		}
+	]
+}
